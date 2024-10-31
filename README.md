@@ -1,4 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobian29c6e&show_icons=true&theme=radical&layout=compact)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bobian29c6e)
 <!--
 **bobian29c6e/bobian29c6e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
