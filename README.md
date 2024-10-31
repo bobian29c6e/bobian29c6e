@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobian29c6e&show_icons=true&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobian29c6e&show_icons=true&theme=radical&layout=compact) ![GitHub Streak](https://streak-stats.demolab.com/?user=bobian29c6e)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bobian29c6e)
 <!--
